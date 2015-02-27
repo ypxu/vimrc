@@ -13,6 +13,9 @@ filetype plugin indent on
 
 syntax on
 
+" System
+set clipboard=unnamed
+
 " More powerful backspacing
 set backspace=indent,eol,start
 
