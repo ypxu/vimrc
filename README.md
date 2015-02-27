@@ -1,4 +1,4 @@
-Vim config files
+**Vim config files**
 
 Based on Vundles
 
@@ -15,3 +15,8 @@ Include following plugins
 - bling/vim-airline
 - vim-scripts/Emmet.vim
 - scrooloose/syntastic
+
+**Install Instruction**
+- cp vimrc ~/.vimrc
+- cp vimrc.bundles ~/.vim/
+- Open vim, do "PluginInstall"
