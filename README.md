@@ -17,6 +17,7 @@ Include following plugins
 - scrooloose/syntastic
 
 **Install Instruction**
+- Install https://github.com/VundleVim/Vundle.vim
 - cp vimrc ~/.vimrc
 - cp vimrc.bundles ~/.vim/
 - Open vim, do "PluginInstall"
