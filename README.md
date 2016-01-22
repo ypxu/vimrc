@@ -21,3 +21,4 @@ Include following plugins
 - cp vimrc ~/.vimrc
 - cp vimrc.bundles ~/.vim/
 - Open vim, do "PluginInstall"
+- Install YouCompleteMe (install script in ~/.vim/bundle/YouCompleteMe)
