@@ -22,3 +22,4 @@ Include following plugins
 - cp vimrc.bundles ~/.vim/
 - Open vim, do "PluginInstall"
 - Install YouCompleteMe (install script in ~/.vim/bundle/YouCompleteMe)
+- Install flake8 or pylint (via pip) for Python syntax checker
